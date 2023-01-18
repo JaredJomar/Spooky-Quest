@@ -1,2 +1,2 @@
 # Project_06
-Spooky QuestFile
+Spooky Quest
